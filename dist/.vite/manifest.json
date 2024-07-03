@@ -1,0 +1,20 @@
+{
+  "main-legacy.ts": {
+    "file": "assets/main-legacy-CKDP0jwX.js",
+    "isEntry": true,
+    "src": "main-legacy.ts"
+  },
+  "main.ts": {
+    "css": [
+      "assets/main-CiILGBGd.css"
+    ],
+    "file": "assets/main-DG_UhT_7.js",
+    "isEntry": true,
+    "src": "main.ts"
+  },
+  "vite/legacy-polyfills-legacy": {
+    "file": "assets/polyfills-legacy-DMrMt_pQ.js",
+    "isEntry": true,
+    "src": "vite/legacy-polyfills-legacy"
+  }
+}
